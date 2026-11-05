@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-crm-template-snapshots-filament",
+  "capabilityKey": "planned:crm:crm-template-snapshots",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/crm-crm-template-snapshots-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/crm/nextjs/crm-template-snapshots.md",
+  "presentationPlan": "projects/crm/filament/crm-template-snapshots.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
